@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/botom_nav_home"
+        android:title="home"
+        android:icon="@drawable/home"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:cnb_backgroundColor="#B3E37D"
+        app:cnb_iconColor="@color/black"
+        />
+
+    <item
+        android:id="@+id/botom_nav_task"
+        android:title="Tasks"
+        android:icon="@drawable/flag"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:cnb_backgroundColor="#B3E37D"
+        app:cnb_iconColor="@color/black"
+        />
+
+    <item
+        android:id="@+id/botom_nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/user"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:cnb_backgroundColor="#B3E37D"
+        app:cnb_iconColor="@color/black"
+        />
+
+    <item
+        android:id="@+id/botom_nav_camera"
+        android:title="AR Camera"
+        android:icon="@drawable/iconcam"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:cnb_backgroundColor="#B3E37D"
+        app:cnb_iconColor="@color/black"
+        />
+
+</menu>
